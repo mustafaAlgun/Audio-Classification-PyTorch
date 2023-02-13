@@ -36,6 +36,27 @@ In this repo,
 
 * You will find tow Jupyter Notebook files, one you can use as a step-by-step guide and other is for STFT Transformation from Audio waveforms. Every step is explained thoroughly in the notebooks.
 
+In detail, the performance of three different methods
+for music genre classification using the FMA small version
+dataset is explored. Firstly, the use of raw audio waveforms
+as features for classification is investigated. Secondly, mel
+spectrogram features, which are commonly used in music
+information retrieval tasks, are used for genre classification.
+Finally, the performance of classification using Short-Time
+Fourier Transform (STFT) images, which provide a compact
+representation of audio signals, is evaluated.
+The aim of this study is to compare and evaluate the performance of these three methods for music genre classification
+and to provide insights into the most suitable approach for
+this task.
+The main contributions of this project are:
+• A comparative study of three different music genre classification methods: raw audio waveform, mel spectrogram
+features, and STFT images.
+• A thorough evaluation of the three methods on the FMA
+small dataset, comparing the results to previous work in
+the literature.
+• An analysis of the results and demonstration of the
+effectiveness of the proposed methods.
+
 ## Getting Started
 
 This Jupyter Notebook was written in Python & Pytorch. You can directly download the notebook and run it locally, or you can upload it on Google Collabs and run there (I recommend GPU usage for faster training time). <br />
