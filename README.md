@@ -49,12 +49,12 @@ The aim of this study is to compare and evaluate the performance of these three 
 and to provide insights into the most suitable approach for
 this task.
 The main contributions of this project are:
-• A comparative study of three different music genre classification methods: raw audio waveform, mel spectrogram
+* A comparative study of three different music genre classification methods: raw audio waveform, mel spectrogram
 features, and STFT images.
-• A thorough evaluation of the three methods on the FMA
+* A thorough evaluation of the three methods on the FMA
 small dataset, comparing the results to previous work in
 the literature.
-• An analysis of the results and demonstration of the
+* An analysis of the results and demonstration of the
 effectiveness of the proposed methods.
 
 ## Getting Started
