@@ -17,7 +17,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/mustafaAlgun/Audio-Classification-PyTorch?color=dark-green) ![Forks](https://img.shields.io/github/forks/mustafaAlgun/Audio-Classification-PyTorch?style=social) ![Stargazers](https://img.shields.io/github/stars/mustafaAlgun/Audio-Classification-PyTorch?style=social) ![Issues](https://img.shields.io/github/issuesmustafaAlgun/Audio-Classification-PyTorch) ![License](https://img.shields.io/github/license/mustafaAlgun/Audio-Classification-PyTorch) 
+![Contributors](https://img.shields.io/github/contributors/mustafaAlgun/Audio-Classification-PyTorch?color=dark-green) ![Forks](https://img.shields.io/github/forks/mustafaAlgun/Audio-Classification-PyTorch?style=social) ![Stargazers](https://img.shields.io/github/stars/mustafaAlgun/Audio-Classification-PyTorch?style=social) ![License](https://img.shields.io/github/license/mustafaAlgun/Audio-Classification-PyTorch) 
 
 ## Table Of Contents
 
@@ -30,6 +30,8 @@
 * [Authors](#authors)
 
 ## About The Repo
+
+![Screen Shot](https://github.com/mustafaAlgun/Audio-Classification-PyTorch/blob/main/General%20Pipeline.png)
 
 
 In this repo, 
